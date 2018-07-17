@@ -1,0 +1,18 @@
+[
+  {
+    "action": "talk",
+    "text": "Please wait while we connect you"
+  },
+  {
+    "action": "connect",
+    "eventUrl": ["https://example.com/events"],
+    "timeout": "45",
+    "from": "6531388153",
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "6593704032"
+      }
+    ]
+  }
+]
