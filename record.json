@@ -2,16 +2,5 @@
   {
     "action": "record",
     "eventUrl": ["https://example.com/recordings"]
-  },
-  {
-    "action": "connect",
-    "eventUrl": ["https://example.com/events"],
-    "from":"6531388153",
-    "endpoint": [
-      {
-        "type": "phone",
-        "number": "6531388153"
-      }
-    ]
   }
-]
+ ] 
